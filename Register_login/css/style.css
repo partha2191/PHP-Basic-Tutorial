@@ -1,0 +1,42 @@
+body{
+	font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+}
+.contain h2{
+	text-align: center;
+	padding-bottom: 20px;
+	font-weight: 600;
+    text-transform: uppercase;
+}
+.register{
+    margin: 20px;
+}
+.login{
+    margin: 100px;
+}
+.contain h4{
+    text-align: center;
+}
+
+.contain form{
+	width: 40%;
+    margin: auto;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+.contain form label{
+	font-size: 18px;
+	padding-top: 5px;
+    padding-bottom: 5px;
+    color: black;
+}
+
+.contain form input[type=submit]{
+    margin-top: 20px;
+    background: limegreen;
+    width: 100%;
+    text-transform: uppercase;
+    color: aliceblue;
+    font-weight: 700;
+}
